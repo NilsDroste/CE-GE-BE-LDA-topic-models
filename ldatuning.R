@@ -1,5 +1,5 @@
 
-setwd("/home/droste/Dropbox/Dokumente/doctorate/green economy/Damatoetal2016/nails-master")
+setwd("...")
 
 #data("AssociatedPress", package="topicmodels")
 
