@@ -1,7 +1,11 @@
 # CE-GE-BE-LDA-topic-models
 Latent Dirichlet Allocation topic model analysis of Circular, Green and Bio-Economy research corpi.
 
-Currently being prepared for submission
+Currently being prepared for submission as
+
+### Green, Circular, Bio economy: a comparative analysis 
+
+by: D’Amato, D., Droste, N., Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Antikainen, R., Matthies, B.D., Toppinen, A.
 
 The code is an adaptation of the NAILS Project: 
 
