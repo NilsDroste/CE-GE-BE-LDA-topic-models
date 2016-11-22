@@ -7,7 +7,7 @@
 
 # -1 setting wd, loading packages, preps -----------------------------------------------
 
-setwd("/home/droste/Dropbox/Dokumente/doctorate/green economy/Damatoetal2016/data")
+setwd("...")
 
 # Loading libraries
 library(splitstackshape)
