@@ -1,7 +1,7 @@
 tag,field
 FN,File Name
 VR,Version Number
-PT,Publication Type (conference, book, journal, book in series, or patent)
+PT,Publication Type (conference - book - journal - book in series - or patent)
 AU,Authors
 AF,Author Full Name
 CA,Group Authors
