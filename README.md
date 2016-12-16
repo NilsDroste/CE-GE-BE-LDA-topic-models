@@ -5,7 +5,7 @@ Currently being prepared for submission as
 
 ### Green, Circular, Bio economy: a comparative analysis 
 
-by: D’Amato, D., Droste, N., Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Antikainen, R., Matthies, B.D., Toppinen, A.
+by: D’Amato, D., Droste, N., Allen, B., Kettunen, M., Lähtinen, K., Korhonen, J., Leskinen, P., Matthies, B.D., Toppinen, A.
 
 The code is an adaptation of the NAILS Project: 
 
